@@ -3,11 +3,11 @@ Learn More About Me!
 
 ---
 
-# 🌇 Hi There!!!! I'm Tina!!! 
+# Hi There!!!! I'm Tina!!! 🌇🎱🥡🫧👩🏻‍💻🧠
 
 ## 🪻 About Me
 
-As a 4th-year Computer Science Honours student, my journey through cs has been marked by a relentless pursuit of knowledge and I'm constantly seeking to apply this knowledge in practical, impactful ways.
+As a 4th-year Computer Science Honours student, my journey through cs has been marked by a relentless pursuit of knowledge & constantly seeking to apply this knowledge in practical, impactful ways.
 
 ## 🍡 My Interests
 
@@ -15,14 +15,13 @@ As a 4th-year Computer Science Honours student, my journey through cs has been m
 - **Front-End**: I'm particularly interested in front-end development, where I can combine creativity with technology to create visually appealing and user-friendly interfaces.
 - **Data Science**: My interest extends into the realm of data science, uncovring insights and make informed decisions through data analysis and visualization.
 
-## 🛠 Skills & Technologies
+## 🩰 My Skills 
 
-I've had the opportunity to work with a wide array of programming languages, development tools, and media software. Here's a snapshot of my toolkit:
+I've had the opportunity to work with a wide array of programming languages, development tools, and media software. 
 
 ### Software Languages
 
-- Proficient in: Java, Python, JavaScript, SQL, HTML, CSS, PHP, Go, Prolog, Scheme, XML, C, R
-- Familiar with: Linux scripting, Jupyter Notebooks, Git
+- Proficient in: Java, Python, JavaScript, SQL, HTML, CSS, PHP, Go, Prolog, Scheme, XML, C, R, Linux scripting, Jupyter Notebooks, Git
 
 ### Development Tools
 
@@ -31,21 +30,14 @@ I've had the opportunity to work with a wide array of programming languages, dev
 - **Back-End**: Flask, Node.js
 - **Databases**: PostgreSQL, MongoDB
 - **Version Control & Project Management**: Git, JIRA, ClearQuest
-- **Operating Systems**: Proficient in Ubuntu and other Linux distributions
-- **Design & Prototyping**: Figma
+- **Other Systems**: Ubuntu and Figma
 
 ### Media Software
 
 - Video Editing: Final Cut Pro, DaVinci Resolve, Adobe Premiere, iMovie
 - Graphic Design: Adobe Photoshop, Lightroom, Illustrator
 
-## 🌱 I'm currently learning...
-
-- Advanced React techniques to enhance my front-end development skills.
-- Cutting-edge data science methodologies, focusing on machine learning and big data analytics.
-- Exploring the capabilities of Go and Rust for efficient system and network programming.
-
-## 📫 How to reach me
+## 🏕️ Reach to Out
 
 - **GitHub**: @tinatrinh8
 - **LinkedIn**: www.linkedin.com/in/tinatrinh8
