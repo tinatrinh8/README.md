@@ -1,8 +1,6 @@
 # README.md
 Learn More About Me!
 
-With the additional details you provided, I'll expand and refine the README template to better reflect your extensive skills and interests:
-
 ---
 
 # 🌇 Hi There!!!! I'm Tina!!! 
