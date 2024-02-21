@@ -21,7 +21,7 @@ I've had the opportunity to work with a wide array of programming languages, dev
 
 ### Software Languages
 
-- Proficient in: Java, Python, JavaScript, SQL, HTML, CSS, PHP, Go, Prolog, Scheme, XML, C, R, Linux scripting, Jupyter Notebooks, Git
+- Proficient in: Java, Python, JavaScript, SQL, HTML, CSS, PHP, Go, Prolog, Scheme, XML, C, R, Linux, Jupyter Notebooks, Git
 
 ### Development Tools
 
@@ -37,7 +37,7 @@ I've had the opportunity to work with a wide array of programming languages, dev
 - Video Editing: Final Cut Pro, DaVinci Resolve, Adobe Premiere, iMovie
 - Graphic Design: Adobe Photoshop, Lightroom, Illustrator
 
-## 🏕️ Reach to Out
+## 🏕️ Reach Out
 
 - **GitHub**: @tinatrinh8
 - **LinkedIn**: www.linkedin.com/in/tinatrinh8
