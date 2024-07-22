@@ -29,7 +29,7 @@ I've had the opportunity to work with a wide array of programming languages, dev
 - **Front-End**: React, Bootstrap
 - **Back-End**: Flask, Node.js
 - **Databases**: PostgreSQL, MongoDB
-- **Version Control & Project Management**: Git, JIRA, ClearQuest
+- **Version Control & Project Management**: Git, JIRA, ClearQuest, Azure DevOps
 - **Other Systems**: Ubuntu and Figma
 
 ### Media Software
